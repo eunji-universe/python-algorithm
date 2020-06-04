@@ -1,3 +1,4 @@
+# n의 약수 중 k번째 수
 import sys
 # sys.stdin = open("input.txt", "rt")
 
