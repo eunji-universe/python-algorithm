@@ -3,7 +3,7 @@
 
 ### basic
 - 코드 구현력을 기르기 위한 기본 연습<br><br>
-**[01](https://github.com/eunji-universe/python-algorithm/blob/master/basic/question1.py)**  K번째 약수<br>
+**[01](https://github.com/eunji-universe/python-algorithm/blob/master/basic/question1.py){: target="_blank"}**  K번째 약수<br>
 **[02](https://github.com/eunji-universe/python-algorithm/blob/master/basic/question2.py)**  K번째 작은 수<br>
 **[03](https://github.com/eunji-universe/python-algorithm/blob/master/basic/question3.py)**  K번째 큰 수<br>
 **[04](https://github.com/eunji-universe/python-algorithm/blob/master/basic/question4.py)**  대표값<br>
