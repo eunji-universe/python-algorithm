@@ -13,6 +13,7 @@
 8) 뒤집은 소수
 9) 주사위 게임
 10) 점수 계산
+<br>
 
 ### search_and_simulation
 - String, 1차원·2차원 리스트 탐색
